@@ -2,7 +2,7 @@
 
 An R/Quarto analysis of how employer mental health support varies with company size, whether workers know what support they have, and whether support is associated with treatment-seeking.
 
-**[View the rendered report](https://YOUR_RPUBS_OR_GITHUB_PAGES_LINK)**
+**[View the rendered report](https://varunmohan44.github.io/mental-health-tech/mental_health_tech.html)**
 
 ## Findings
 
